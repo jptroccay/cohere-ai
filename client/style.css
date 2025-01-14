@@ -148,3 +148,8 @@ form img {
   width: 30px;
   height: 30px;
 }
+
+.parrafo {
+  padding: 10px 5px;
+  color: white;
+}
